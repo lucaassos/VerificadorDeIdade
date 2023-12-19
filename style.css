@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(137, 43, 226, 0.384);
+    font-family: sans-serif
+}
+
+section {
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 440px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10vh;
+}
+div {
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5vh;
+}
